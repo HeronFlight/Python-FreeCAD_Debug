@@ -1,5 +1,6 @@
 # Python-FreeCAD_Debug
 Debugging Python Scripting in FreeCAD!
-# Getting Started Guide for Pyzo & FreeCAD on MS Windows
-With some basic notes for debugging Python scripts in FreeCAD with Pyzo.  
-Available in .pdf and .odt formats.
+# Pyzo
+Thanks to the user [bdieterm](https://github.com/bdieterm), we already have a page on the FreeCAD wiki!!!
+
+https://wiki.freecad.org/Pyzo
